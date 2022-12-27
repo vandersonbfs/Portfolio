@@ -362,7 +362,10 @@ header .navbar ul li a:hover{
     padding-right: 1rem;
     color:var(--yellow);
 }
-
+.contact .row .content .info  a{
+    padding-right: 1rem;
+    color:#fff;
+}
 .top{
     position: fixed;
     bottom:7.5rem; right: 2rem;
